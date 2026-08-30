@@ -7,21 +7,15 @@ Helping people solve problem with Technology
 
 ## 🛠 Tech Stack
 
-* **Languages:** Python, C++, Go
-* **Computer Vision & AI:** OpenCV, TensorRT, PyTorch, ByteTrack
-* **Systems & Environment:** Arch Linux, Docker, Git, GStreamer
+* **Languages:** Python, C++
+* **AI and Data:** PyTorch, Edge AI, Neural network quantization
+* **Hardware:** microcontroller(ESP32, STM32, Rasberry Pi)
+* **Robotics:** ROS, GStreamer, sensor integration
+* **Cloud:** AWS
 
 ## 📌 Current Focus & Activity
 
 - 👯 **Looking to collaborate on:** Open-source Data and AI systems, C++/Go systems tools, or robotics projects.
-
-
-## ⚡ What I Build (At a Glance)
-
-| Project | What It Does | Core Tech |
-| :--- | :--- | :--- |
-| **Sentinel** | High-precision construction safety geofencing platform using bird's-eye foot-anchor tracking | Python, C++, OpenCV, TensorRT |
-
 
 ## 📌 How to Read My Repositories
 
@@ -40,10 +34,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
