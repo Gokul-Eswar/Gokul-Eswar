@@ -17,11 +17,6 @@ Helping people solve problem with Technology
 
 - 👯 **Looking to collaborate on:** Open-source Data and AI systems, C++/Go systems tools, or robotics projects.
 
-## 📌 How to Read My Repositories
-
-* **If you want to see Computer Vision logic:** Check out the `Sentinel` repository.
-
-
 ## 📬 Connect
 
 * **Email:** gokuleswar773@gmail.com
